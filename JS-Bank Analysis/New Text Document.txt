@@ -1,0 +1,19 @@
+Requirements
+
+Creating Card visual for 
+Total Customers 
+Total Balance
+Top Customer
+
+Cluster coloum chart for New customer by Month
+
+Map for Region 
+
+Clustered column chart for age distribution 
+
+Clustered column chart for balance distribution
+
+Pei chart for Gender split and Total customers by region
+
+Tree map for job classification 
+
