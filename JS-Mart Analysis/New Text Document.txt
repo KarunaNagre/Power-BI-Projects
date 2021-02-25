@@ -1,0 +1,26 @@
+Requirements
+
+Creating measure for profit margin
+
+Card visual for 
+Total sales 
+Total Profit
+Total Quantity
+Profit Margin
+Total Orders
+
+Slicer for Order Date
+
+Map for sales by location 
+
+Clustered bar chart for Sales by sub-category
+
+Pie chart for discount by segment 
+
+Line and clustered coloumn chart for sales and profit by year
+
+Clustered coloumn chart for %GT sales by ship mode
+
+Donut Chart for Sales and profit by region 
+
+Matrix table for Customer Name and sales and finding out top 10 customers according to number of sales by applying filter
